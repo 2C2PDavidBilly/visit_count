@@ -1,4 +1,4 @@
 # Welcome to my profile page!
-# You are visitor:  ![Visitor Count](https://profile-counter.glitch.me/2C2PDavidBilly/count.svg)
+# You are visitor:  ![](https://komarev.com/ghpvc/?username=2C2PDavidBilly&style=for-the-badge)
 
 # Personal Account: https://github.com/davidbilly
